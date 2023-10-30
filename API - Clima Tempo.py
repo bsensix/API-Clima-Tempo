@@ -68,13 +68,6 @@ for index, row in df.iterrows():
 conn.close()
 
 
-# In[4]:
-
-
-get_ipython().system('pip freeze > requirements.txt')
-
-
-# In[ ]:
 
 
 

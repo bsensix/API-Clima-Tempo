@@ -1,0 +1,4 @@
+name: my-python-app
+type: python
+script: API_Clima_Tempo.py
+
